@@ -1,0 +1,58 @@
+const Fonts = {
+  FONT_35: 35,
+  FONT_30: 30,
+  FONT_26: 26,
+  FONT_24: 24,
+  FONT_22: 22,
+  FONT_21: 21,
+  FONT_20: 20,
+  FONT_19: 19,
+  FONT_18: 18,
+  FONT_17: 17,
+  FONT_16: 16,
+  FONT_15: 15,
+  FONT_14: 14,
+  FONT_13: 13,
+  FONT_12: 12,
+  FONT_11: 11,
+  FONT_10: 10,
+  FONT_9: 9,
+
+  POPPINS_REGULAR: 'Poppins-Regular',
+  POPPINS_LIGHT: 'Poppins-Light',
+  POPPINS_MEDIUM: 'Poppins-Medium',
+  POPPINS_SEMIBOLD: 'Poppins-SemiBold',
+  POPPINS_BOLD: 'Poppins-Bold',
+
+  NUNITO_SANS_REGULAR: 'NunitoSans-Regular',
+  NUNITO_SANS_LIGHT: 'NunitoSans-Light',
+  NUNITO_SANS_SEMIBOLD: 'NunitoSans-SemiBold',
+  NUNITO_SANS_BOLD: 'NunitoSans-Bold',
+
+  // DM_SANS_REGULAR: 'DM Sans Regular 400',
+  // DM_SANS_BOLD: 'DM Sans Bold 700',
+  // DM_SANS_MEDIUM: 'DM Sans Medium 500',
+
+  INTER_REGULAR: 'Inter-Regular',
+  INTER_MEDIUM: 'Inter-Medium',
+  INTER_SEMIBOLD: 'Inter-SemiBold',
+  INTER_BOLD: 'Inter-Bold',
+  INTER_EXTRABOLD: 'Inter-ExtraBold',
+
+  MULISH_REGULAR: 'Mulish-Regular',
+  MULISH_MEDIUM: 'Mulish-Medium',
+  MULISH_LIGHT: 'Mulish-Light',
+  MULISH_SEMIBOLD: 'Mulish-SemiBold',
+  MULISH_BOLD: 'Mulish-Bold',
+  MULISH_EXTRABOLD: 'Mulish-ExtraBold',
+
+  MANROPE_REGULAR: 'Manrope-Regular',
+  MANROPE_LIGHT: 'Manrope-Light',
+  MANROPE_EXTRALIGHT: 'Manrope-ExtraLight',
+  MANROPE_MEDIUM: 'Manrope-Medium',
+  MANROPE_SEMIBOLD: 'Manrope-SemiBold',
+  MANROPE_BOLD: 'Manrope-Bold',
+  MANROPE_EXTRABOLD: 'Manrope-ExtraBold',
+};
+
+export default Fonts;

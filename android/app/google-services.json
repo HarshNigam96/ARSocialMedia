@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599667441591",
+    "project_id": "arsocialmedia-ca527",
+    "storage_bucket": "arsocialmedia-ca527.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599667441591:android:fb939615141fe3ffc4b232",
+        "android_client_info": {
+          "package_name": "com.arsocialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599667441591-sltc33v52cho8cst40brp45udvl8aipm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFvfUW1fjFeQ4K0Q1IOM3LN2d0LrziqFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599667441591-sltc33v52cho8cst40brp45udvl8aipm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

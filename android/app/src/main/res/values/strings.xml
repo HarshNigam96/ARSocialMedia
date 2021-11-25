@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ARSocialMedia</string>
+    <string name="facebook_app_id">338034221351787</string>
+    <string name="fb_login_protocol_scheme">fb338034221351787</string>
+</resources>
